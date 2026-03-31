@@ -21,14 +21,23 @@ The dataset simulates real-world banking or telecom customer data.
  Dataset Features (Columns Used)
  
 Customer_ID – Unique ID for each customer
+
 Age – Customer age (18–70)
+
 Gender – Male / Female
+
 Tenure – Years with company (0–10)
+
 Balance – Account balance
+
 CreditScore – Credit score (300–900)
+
 EstimatedSalary – Annual income
+
 NumOfProducts – Number of products used
+
 IsActiveMember – Active status (Yes/No)
+
 Churn – Target variable (0 = No, 1 = Yes)
 
 Tools & Technologies
